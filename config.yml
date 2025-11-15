@@ -1,6 +1,6 @@
 # config.yml
 
 hy2_port: "40009"                  #输入端口=确认部署
-tuic_port: ""                      #输入端口=确认部署
+tuic_port: "40152"                      #输入端口=确认部署
 reality_port: "40152"              #输入端口=确认部署
 sni: "www.bing.com"
